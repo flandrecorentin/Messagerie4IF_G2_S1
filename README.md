@@ -13,5 +13,5 @@ Pour lancer le serveur:
 (ou)......$./Serveur/server  
 
 Pour lancer un client:  
-..............$./Client/client <address> <login> <mdp>  
+..............$./Client/client [address] [login] [mdp]  
 (ex)......$./Client/client 127.0.0.1 corentin 1234
