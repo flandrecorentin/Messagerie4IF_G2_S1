@@ -1,0 +1,5 @@
+[Wed Nov 30 11:58:13 2022] corentin : salut 
+[Wed Nov 30 11:58:46 2022] colin : salut ca va ? 
+[Wed Nov 30 11:59:03 2022] corentin : oui et toi ? je suis en 5IF maintenant
+[Wed Nov 30 11:59:13 2022] colin : parfait moi aussi ! on sera dans la meme classe ?
+[Wed Nov 30 12:05:03 2022] corentin : Oui j'ai trop hate

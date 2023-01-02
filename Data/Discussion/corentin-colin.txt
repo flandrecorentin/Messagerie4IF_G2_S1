@@ -1,0 +1,5 @@
+[Wed Nov 30 16:36:26 2022] colin : Salut Corentin !
+[Wed Nov 30 16:36:43 2022] corentin : Salut Colin ! ca va ?
+[Wed Nov 30 16:36:51 2022] colin : Ca va très bien et toi ? 
+[Wed Nov 30 16:37:04 2022] corentin : Moi ca va aussi car j'ai finis le projet de Prog R�eseau !
+[Wed Nov 30 16:37:27 2022] colin : Oh super ! Et ceci est une discussion privée entre nous deux 
